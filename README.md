@@ -39,13 +39,13 @@ Compare the performance of different models and identify the best-performing mod
 ## Tableau Link
 https://public.tableau.com/app/profile/margo.berry/viz/NashvilleHousing2013-2016/MonthYearvsAvg_SalePrice?publish=yes
 
-
+### Finished Area vs Sales Price (Scatter Plot)
 ![Tableau1](https://github.com/margoberry17/Predicting-Hosing-Prices-using-ML/assets/136475202/45d8941b-c83b-40f4-b977-6e7d5bc8e4c8)
 
-
+### Month & Year vs Sales Price (Line Graph)
 ![Tableau2](https://github.com/margoberry17/Predicting-Hosing-Prices-using-ML/assets/136475202/153215b6-4b3f-4b07-a39a-c30e5e216a32)
 
-
+### Property City vs Sales Price (Bar Graph)
 ![Tableau3](https://github.com/margoberry17/Predicting-Hosing-Prices-using-ML/assets/136475202/c28a2407-167c-454e-966a-2b0232b141f1)
 
 
